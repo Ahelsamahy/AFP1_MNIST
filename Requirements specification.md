@@ -27,3 +27,7 @@ Application must have these general standards:
 
 ## Privacy and Cookie Policy
 Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read.
+
+# 5. Current business model
+
+In fact there is not a specific business model as the project is intended to serve as a way to improve machine learning and there isn't a reason to have a subscription to do it and will serve a survey for user's opinion about numbers.
