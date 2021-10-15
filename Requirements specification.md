@@ -17,3 +17,10 @@ Application must have these general standards:
 1. Must have a simple user interface that can work with all ages.
 2. Must be easy for new user to get used to it.
 3. Must use the industry best practices in showing album and artists to user.
+
+
+## Browser requirements:
+-   Google Chrome
+-   Microsoft Edge
+-   Mozilla Firefox
+-   Microsoft Internet Explorer 10.0+
