@@ -9,3 +9,11 @@ The aim for this is to make a solid project that can serve as database for user 
 # 3. Intended Audience
 
 It works on two types of users, the first one is the input user that is going to feed the database with he info about the numbers as they will choose from the buttons on-screen, the second one are the students who will check if the statistics is good for the photos or not as there is percentage of accuracy that needs to be achieved.
+
+# 4. Standards & Laws
+## General Standards:
+Application must have these general standards:
+
+1. Must have a simple user interface that can work with all ages.
+2. Must be easy for new user to get used to it.
+3. Must use the industry best practices in showing album and artists to user.
