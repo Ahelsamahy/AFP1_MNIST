@@ -43,7 +43,9 @@ In fact there is not a specific business model as the project is intended to ser
 # 6. Requested business model
 As for right now for the team, we are still learning how to handle the back-end side of the website like calculating how many answers were for favor of one number and how many for the other one and based on it will show the next numbers, also the way for numbers to show randomly for each user as the user won't have the same sequence of numbers that are shown every time. So this project will have a new approach for us in way to integrate between back-end with front-end.
 
-Homepage that will show the numbers with the button around it wither on the side or as a dial pad or under it to leave space and how many numbers did the user will be next to the numbers
+Homepage that will show the numbers with the button around it wither on the side or as a dial pad or under it to leave space and how many numbers did the user will be next to the numbers.
+
+User must have a stable internet connection as the session have to be connected all the time during the survey.
 
 
 
