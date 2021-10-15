@@ -52,6 +52,13 @@ User must have a stable internet connection as the session have to be connected 
   * the window to show the number.
   * statistics for how many numbers did the user do.
   * buttons on screen for the user to choose it.
+  
+| Module        | ID  | Name         | V   | Description                         |
+|---------------|-----|--------------|-----|-------------------------------------|
+| Database      | D1  | Name         | 0.1 | Database, tables, relations         |
+| Database      | D1  | statistics   | 0.1 | Database, tables, relations         |
+| Button        | B1  | Numbers      | 0.1 | User can choose numbers             |
+| Profile       | PR1 | input times  | 0.1 | User view their date entry times    |
 
 
 
