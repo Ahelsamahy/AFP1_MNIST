@@ -24,3 +24,6 @@ Application must have these general standards:
 -   Microsoft Edge
 -   Mozilla Firefox
 -   Microsoft Internet Explorer 10.0+
+
+## Privacy and Cookie Policy
+Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read.
