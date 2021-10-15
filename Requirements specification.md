@@ -6,6 +6,12 @@ Developing a MNIST (Modified National Institute of Standards and Technology) web
 
 The aim for this is to make a solid project that can serve as database for user input where they can choose between 10 buttons on-screen (0-9). What number is shown in front of them then this number is taken as result for them then stored in database for afterward, where it is calculated for how many user got a specific number to be the one shown or missed it with another way as the numbers might be difficult for some users/clients to get it right at the beginning. 
 
+-**Home page:**  First page that user will see and that purpose is to demonstrate the way the user will choose in numbers.
+
+-**statistics:** On how it will show the results for users who wish to see it.
+
+-**About us:** The team who worked on the project with their role.
+
 # 3. Intended Audience
 
 It works on two types of users, the first one is the input user that is going to feed the database with he info about the numbers as they will choose from the buttons on-screen, the second one are the students who will check if the statistics is good for the photos or not as there is percentage of accuracy that needs to be achieved.
@@ -36,6 +42,8 @@ In fact there is not a specific business model as the project is intended to ser
 
 # 6. Requested business model
 As for right now for the team, we are still learning how to handle the back-end side of the website like calculating how many answers were for favor of one number and how many for the other one and based on it will show the next numbers, also the way for numbers to show randomly for each user as the user won't have the same sequence of numbers that are shown every time. So this project will have a new approach for us in way to integrate between back-end with front-end.
+
+
 
 
 
