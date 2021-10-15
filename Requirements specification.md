@@ -8,4 +8,4 @@ The aim for this is to make a solid project that can serve as database for user 
 
 # 3. Intended Audience
 
-It works on two types of users, the first one is the input user that is going to feed the database with he info about the numbers as they will choose from the buttons on-screen,
+It works on two types of users, the first one is the input user that is going to feed the database with he info about the numbers as they will choose from the buttons on-screen, the second one are the students who will check if the statistics is good for the photos or not as there is percentage of accuracy that needs to be achieved.
