@@ -70,12 +70,11 @@ Goal of the project is to deliver a new of kind project that shall narrow the ga
 - Able to see their score.
 - Able to skip to next image or number if they can't understand current one.
 
-## Manager:
+## Admin:
 - Has all the user privileges
-- Able to add a new product
-- Can modify an existing product
-- Able to remove a product
-- Has access to and able to see all the orders from other users
+- See the user input.
+- Categorize each result based on the numbers.
+- Can remove numbers from the database.
 
 
 
