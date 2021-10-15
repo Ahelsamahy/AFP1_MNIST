@@ -17,7 +17,9 @@ Application must have these general standards:
 1. Must have a simple user interface that can work with all ages.
 2. Must be easy for new user to get used to it.
 3. Must use the industry best practices in showing album and artists to user.
-
+4. It does not exhibit any errors or clash unexpectedly
+5. There is not any user interface glitches
+6. Have introduction for how the user shall use it in proper way.
 
 ## Browser requirements:
 -   Google Chrome
