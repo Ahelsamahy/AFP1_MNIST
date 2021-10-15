@@ -47,6 +47,12 @@ Homepage that will show the numbers with the button around it wither on the side
 
 User must have a stable internet connection as the session have to be connected all the time during the survey.
 
+# 7. Request List
+-The following table shows how the Database will work with :
+  * the window to show the number.
+  * statistics for how many numbers did the user do.
+  * buttons on screen for the user to choose it.
+
 
 
 
