@@ -76,6 +76,9 @@ Goal of the project is to deliver a new of kind project that shall narrow the ga
 - Categorize each result based on the numbers.
 - Can remove numbers from the database.
 
+# 9. Glossary
+ The page should have a good overall looking so it will be good for wide range of users to be familiar with without having problem with, this can be done with proper use of navigation bar that should take you to different section in main page then to the important part which is input section, in addition to good colors that can make the site more appealing to the eyes as the user can input as many numbers as they can without getting eye strain.
+
 
 
 
