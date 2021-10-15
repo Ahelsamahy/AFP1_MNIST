@@ -60,8 +60,22 @@ User must have a stable internet connection as the session have to be connected 
 | Button        | B1  | Numbers      | 0.1 | User can choose numbers             |
 | Profile       | PR1 | input times  | 0.1 | User view their date entry times    |
 
-# 8.Overview
+# 8. Overview
 Goal of the project is to deliver a new of kind project that shall narrow the gap between MNIST and the users, it will be able to deliver a good user interface that is good for wide range of ages so they can participate in making the statistics better for over all purpose. with all of this they will be able to see how much did they contribute to the project in overall. 
+
+# 8. Use Cases
+
+## User:
+- Able to choose input.
+- Able to see their score.
+- Able to skip to next image or number if they can't understand current one.
+
+## Manager:
+- Has all the user privileges
+- Able to add a new product
+- Can modify an existing product
+- Able to remove a product
+- Has access to and able to see all the orders from other users
 
 
 
