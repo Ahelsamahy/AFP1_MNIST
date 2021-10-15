@@ -82,6 +82,7 @@ Goal of the project is to deliver a new of kind project that shall narrow the ga
 # 10. Script
 Homepage should be simple one with 10 buttons close to the place where user will see the number and next to it is the data entry time the user had done. After it is done then the server should add the number that is selected as the times all the user had done them for this number, for example one user will choose 1 while the other will choose for 2 for the same number as it will be confusing.
 
+when it is done, then it will show the statistics for all numbers based on the data that was entered previously by the user, will show the percentage of the users.
 
 
 
