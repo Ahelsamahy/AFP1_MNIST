@@ -1,6 +1,6 @@
 # 1. Current State  
 
-Developing a MNIST (Modified National Institute of Standards and Technology) webpage to create statistics based on user input about a specific large database of handwritten digits that is commonly used for training various image processing systems. The database is also widely used for training and testing in the field of machine learning as it works as Hello world project for this area of study and good as starting point. Its simplicity and ease of use are what make this dataset so widely used and deeply understood.
+Developing a MNIST (Modified National Institute of Standards and Technology) webpage to create statistics based on user input about a specific large database of handwritten digits that is commonly used for training various image processing systems. The database is also widely used for training and testing in the field of machine learning as it works as Hello world project for this area of study and good as starting point. Its simplicity and ease of use are what make this dataset so widely used and deeply understood by nearly are starting learners in the field of machine learning.
 
 # 2. Scope
 
