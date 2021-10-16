@@ -1,5 +1,7 @@
 # 1. Current State  
 
+We are a team of data analysts that wants to have a project that can recognize different handwriting for numbers. Currently we want a program that is capable of doing what was mentioned previously in addition to take the data that user entered as the more user enter their opinion about number, the more it will be able to improve itself to differentiate between different shapes for same number. Do achieve this you will have to make app called MNIST. 
+
 Developing a MNIST (Modified National Institute of Standards and Technology) webpage to create statistics based on user input about a specific large database of handwritten digits that is commonly used for training various image processing systems. The database is also widely used for training and testing in the field of machine learning as it works as Hello world project for this area of study and good as starting point. Its simplicity and ease of use are what make this dataset so widely used and deeply understood by nearly are starting learners in the field of machine learning.
 
 # 2. Scope
