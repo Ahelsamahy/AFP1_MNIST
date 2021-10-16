@@ -39,6 +39,11 @@ Application must have these general standards:
 Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read.
 
 # 5. Current business model
+//how the research team operates now. How they collect data, how they analyze them, and why they are in need of such software they require.
+
+The normal way to deal with the user's data is by getting all the user input from the database then seeing how many of them choose specific answer for it in the ratio of the overall chosen answer, after it is done it will help in getting the recognition better for the project so it can deal better with blurry images.
+
+Why we can't use nowadays softwares is because most of them that can develop this kind of result we want, are either hard for normal user to work with it due to unfamiliar and unfriendly user interface or expensive to buy for our small team. so we hope that we find a middle part in between.
 
 In fact there is not a specific business model as the project is intended to serve as a way to improve machine learning, and there isn't a reason to have a subscription to do it and will serve a survey for user's opinion about numbers.
 
