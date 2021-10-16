@@ -47,6 +47,9 @@ Why we can't use nowadays software is because most of them that can develop this
 In fact there is not a specific business model as the project is intended to serve as a way to improve machine learning, and there isn't a reason to have a subscription to do it and will serve a survey for user's opinion about numbers.
 
 # 6. Requested business model
+
+As our laboratory doesn't only function on this app, will we integrate it into our system so we will be able to get the result from and implement it to make our other software predict the result in the future for pre-experience results.
+
 As for right now for the team, we are still learning how to handle the back-end side of the website like calculating how many answers were for favor of one number and how many for the other one and based on it will show the next numbers, also the way for numbers to show randomly for each user as the user won't have the same sequence of numbers that are shown every time. So this project will have a new approach for us in way to integrate between back-end with front-end.
 
 Homepage that will show the numbers with the button around it wither on the side or as a dial pad or under it to leave space and how many numbers did the user will be next to the numbers.
