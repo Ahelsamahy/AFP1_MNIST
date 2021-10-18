@@ -64,9 +64,12 @@ User must have a stable internet connection as the session have to be connected 
   
 | Module        | ID  | Name         | V   | Description                         |
 |---------------|-----|--------------|-----|-------------------------------------|
-| Database      | D1  | Name         | 0.1 | Database, tables, relations         |
+| Database      | D1  | Name         | 0.1 | users who added their opinion       |
 | Database      | D1  | statistics   | 0.1 | Database, tables, relations         |
+| Page          | P1  | Results      | 0.1 | all data from users                 |
+| Page          | P2  | overall      | 0.1 | all data from users                 |
 | Button        | B1  | Numbers      | 0.1 | User can choose numbers             |
+| Button        | B2  | Numbers      | 0.1 | submit all user's result            |
 | Profile       | PR1 | input times  | 0.1 | User view their date entry times    |
 
 # 8. Overview
