@@ -1,10 +1,13 @@
-# 1. Current State  
+# 1. Overview
+Goal of the project is to deliver a new of kind project that shall narrow the gap between MNIST and the users, it will be able to deliver a good user interface that is good for wide range of ages so they can participate in making the statistics better for over all purpose. with all of this they will be able to see how much did they contribute to the project in overall. 
+
+# 2. Current State  
 
 We are a team of data analysts that wants to have a project that can recognize different handwriting for numbers. Currently we want a program that is capable of doing what was mentioned previously in addition to take the data that user entered as the more user enter their opinion about number, the more it will be able to improve itself to differentiate between different shapes for same number. Do achieve this you will have to make app called MNIST. 
 
 Developing a MNIST (Modified National Institute of Standards and Technology) webpage to create statistics based on user input about a specific large database of handwritten digits that is commonly used for training various image processing systems. The database is also widely used for training and testing in the field of machine learning as it works as Hello world project for this area of study and good as starting point. Its simplicity and ease of use are what make this dataset so widely used and deeply understood by nearly are starting learners in the field of machine learning.
 
-# 2. Scope
+# 3. Scope
 
 The aim for this is to make a solid project that can serve as database for user input where they can choose between 10 buttons on-screen (0-9). What number is shown in front of them then this number is taken as result for them then stored in database for afterward, where it is calculated for how many user got a specific number to be the one shown or missed it with another way as the numbers might be difficult for some users/clients to get it right at the beginning. 
 
@@ -14,11 +17,11 @@ The aim for this is to make a solid project that can serve as database for user 
 
 -**About us:** The team who worked on the project with their role.
 
-# 3. Intended Audience
+# 4. Intended Audience
 
 It works on two types of users, the first one is the input user that is going to feed the database with he info about the numbers as they will choose from the buttons on-screen, the second one are the students who will check if the statistics is good for the photos or not as there is percentage of accuracy that needs to be achieved.
 
-# 4. Standards & Laws
+# 5. Standards & Laws
 ## General Standards:
 Application must have these general standards:
 
@@ -38,7 +41,7 @@ Application must have these general standards:
 ## Privacy and Cookie Policy
 Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read.
 
-# 5. Current business model
+# 6. Current business model
 
 The normal way to deal with the user's data is by getting all the input from the database then calculating how many of them choose specific answer for it in the ratio of the overall chosen answer, after it is done it will help in getting the recognition better for the project so it can deal better with blurry images.
 
@@ -46,7 +49,7 @@ Why we can't use nowadays software is because most of them that can develop this
 
 In fact there is not a specific business model as the project is intended to serve as a way to improve machine learning, and there isn't a reason to have a subscription to do it and will serve a survey for user's opinion about numbers.
 
-# 6. Requested business model
+# 7. Requested business model
 
 As our laboratory doesn't only function on this app, will we integrate it into our system so we will be able to get the result from and implement it to make our other software predict the result in the future for pre-experience results.
 
@@ -56,7 +59,7 @@ Homepage that will show the numbers with the button around it wither on the side
 
 User must have a stable internet connection as the session have to be connected all the time during the survey.
 
-# 7. Request List
+# 8. Request List
 -The following table shows how the Database will work with :
   * the window to show the number.
   * statistics for how many numbers did the user do.
@@ -72,8 +75,7 @@ User must have a stable internet connection as the session have to be connected 
 | Button        | B2  | Numbers      | 0.1 | submit all user's result            |
 | Profile       | PR1 | input times  | 0.1 | User view their date entry times    |
 
-# 8. Overview
-Goal of the project is to deliver a new of kind project that shall narrow the gap between MNIST and the users, it will be able to deliver a good user interface that is good for wide range of ages so they can participate in making the statistics better for over all purpose. with all of this they will be able to see how much did they contribute to the project in overall. 
+
 
 # 9. Use Cases
 
