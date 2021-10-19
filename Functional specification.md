@@ -3,4 +3,4 @@ As it was sent form the client, they want to create a MNIST image recognition ap
 
 # 2. Current State  
 
-As for now we are figuring out way to connect the project with database that have a wide range of images about numbers so we make the result more precise and narrow the field of error so we can achieve this by two ways.
+As for now we are figuring out way to connect the project with database that have a wide range of images about numbers so we make the result more precise and narrow the field of error so we can achieve this by two ways. the first one is by having server that can handle heavy processing with all the images from different users being dealt with inside, which will eventually increase in the budget. The second option is to have a lot of users who are willing to spend more time on the platform so we take more data input from them, to do it you will need a good user interface that will keep them attached to it.
