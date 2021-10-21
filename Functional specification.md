@@ -73,3 +73,9 @@ User must have a stable internet connection as the session have to be connected 
 - Able to choose input.
 - Able to see their score.
 - Able to skip to next image or number if they can't understand current one.
+
+## Admin:
+- Has all the user privileges
+- See the user input.
+- Categorize each result based on the numbers.
+- Can remove numbers from the database.
