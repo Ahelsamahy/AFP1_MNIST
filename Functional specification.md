@@ -8,3 +8,6 @@ As for now we are figuring out way to connect the project with database that hav
 
 # 3. Scope
 Is to have a good application that is capable of giving the client a precise result about what have users interned for different numbers based on what they have seen, and it will show with the calculation made in the back-end part of the website with the percentage of the users who entered the data and how many of them got it close to the image so it would train itself later in the future.
+
+# 4. Intended Audience
+It works on two types of users, the first one is the input user that is going to feed the database with he info about the numbers as they will choose from the buttons on-screen, the second one are the students who will check if the statistics is good for the photos or not as there is percentage of accuracy that needs to be achieved.
