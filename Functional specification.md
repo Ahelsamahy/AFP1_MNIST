@@ -98,7 +98,7 @@ PHP : to manage dynamic content, databases, session tracking, even build entire 
 # 11. Script
 when the user open the website for first time, it will prompt a message to ask about the password and username that will be used later to store their data entry, after it will show a full screen of the numbers then a keypad with the buttons to enter the data, the user can add the number by clicking on the button or by the keyboard in case of PC or laptop, on mobile or touch screen devices it can also be entered by the touch screen, after the user finish as many as they can do, there will be a statistics page about their results with how many did they enter and the numbers they got to it.
 
-
+For the backend side, it will get the data from the user then calculate the overall of it with the percentage of each user with their entry example, let's assume that the number shown on the screen is 3, 30% of user will say that it is 2 (as it might be difficult for them to see the number clearly) while the other 70% will say that it is 3, the website will make the calculation and show to the user that there are 70% say that it is 3 while there are 30% say it is 2.
 
 Homepage should be simple one with 10 buttons close to the place where user will see the number and next to it is the data entry time the user had done. After it is done then the server should add the number that is selected as the times all the user had done them for this number, for example one user will choose 1 while the other will choose for 2 for the same number as it will be confusing.
 
