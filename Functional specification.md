@@ -39,7 +39,6 @@ Application will have these general standards:
 Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read.
 
 # 6. Current business model
-
 As for us now, we are trying to get used to the backend side of the program as nearly the whole project will be based on calculation that is made on the server side which will be done by PHP language for its efficiency in dealing with lots of information with speed.
 
 This doesn't mean that there won't be a frontend side as we have to make a good looking frontend to the user stay longer on the website and to show the user all the info they have entered, this can be done by using Bootstrap to make the website responsive on different devices specially on the mobile phones as most of people use there phones nowadays more than before.
@@ -82,6 +81,16 @@ User must have a stable internet connection as the session have to be connected 
 - Can remove numbers from the database.
 
 # 10. Glossary
+HTML: Hypertext Markup Language, the foundation of any website.
+
+CSS:  for describing the presentation of Web pages, including colors, layout, and fonts.
+
+JavaScript:  add dynamic behavior to the web page and special effects.
+
+Bootstrap: help in designing website faster and easier. It includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation.
+
+PHP : to manage dynamic content, databases, session tracking, even build entire e-commerce sites
+
  The page should have a good overall looking so it will be good for wide range of users to be familiar with without having problem with, this can be done with proper use of navigation bar that should take you to different section in main page then to the important part which is input section, in addition to good colors that can make the site more appealing to the eyes as the user can input as many numbers as they can without getting eye strain.
  
  In the forntend we will have several languages, bootstrap that is nearly a mix between CSS and HTML with Javascript for the messages to show for user and calculation, while on the beckend the main language will be PHP to deal with server side operation like adding the input and calculate the result in the end.
