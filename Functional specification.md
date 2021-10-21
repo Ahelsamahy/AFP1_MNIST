@@ -49,3 +49,10 @@ As for right now for the team, we are still learning how to handle the back-end 
 Homepage that will show the numbers with the button around it wither on the side or as a dial pad or under it to leave space and how many numbers did the user will be next to the numbers.
 
 User must have a stable internet connection as the session have to be connected all the time during the survey.
+
+
+# 8. Request List
+-The following table shows how the Database will work with :
+  * the window to show the number.
+  * statistics for how many numbers did the user do.
+  * buttons on screen for the user to choose it.
