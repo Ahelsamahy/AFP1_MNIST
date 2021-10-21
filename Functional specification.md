@@ -84,3 +84,8 @@ User must have a stable internet connection as the session have to be connected 
  The page should have a good overall looking so it will be good for wide range of users to be familiar with without having problem with, this can be done with proper use of navigation bar that should take you to different section in main page then to the important part which is input section, in addition to good colors that can make the site more appealing to the eyes as the user can input as many numbers as they can without getting eye strain.
  
  In the forntend we will have several languages, bootstrap that is nearly a mix between CSS and HTML with Javascript for the messages to show for user and calculation, while on the beckend the main language will be PHP to deal with server side operation like adding the input and calculate the result in the end.
+ 
+# 11. Script
+Homepage should be simple one with 10 buttons close to the place where user will see the number and next to it is the data entry time the user had done. After it is done then the server should add the number that is selected as the times all the user had done them for this number, for example one user will choose 1 while the other will choose for 2 for the same number as it will be confusing.
+
+when it is done, then it will show the statistics for all numbers based on the data that was entered previously by the user, will show the percentage of the users.
