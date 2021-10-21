@@ -29,3 +29,9 @@ Application will have these general standards:
 4. It does not exhibit any errors or clash unexpectedly
 5. There is not any user interface glitches
 6. Have introduction for how the user shall use it in proper way.
+
+
+# 6. Current business model
+
+As for us now, we are trying to get used to the backend side of the program as nearly the whole project will be based on calculation that is made on the server side which will be done by PHP language for its efficiency in dealing with lots of information with speed.
+
