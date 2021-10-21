@@ -30,6 +30,12 @@ Application will have these general standards:
 5. There is not any user interface glitches
 6. Have introduction for how the user shall use it in proper way.
 
+## Browser requirements:
+-   Google Chrome
+-   Microsoft Edge
+-   Mozilla Firefox
+-   Microsoft Internet Explorer 10.0+
+
 
 # 6. Current business model
 
