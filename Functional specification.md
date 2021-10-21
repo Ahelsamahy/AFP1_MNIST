@@ -17,3 +17,15 @@ Is to have a good application that is capable of giving the client a precise res
 
 # 4. Intended Audience
 It works on two types of users, the first one is the input user that is going to feed the database with he info about the numbers as they will choose from the buttons on-screen, the second one are the students who will check if the statistics is good for the photos or not as there is percentage of accuracy that needs to be achieved.
+
+
+# 5. Standards & Laws
+## General Standards:
+Application will have these general standards:
+
+1. Will have a simple user interface that can work with all ages.
+2. Will be easy for new user to get used to it.
+3. Will use the industry best practices in showing album and artists to user.
+4. It does not exhibit any errors or clash unexpectedly
+5. There is not any user interface glitches
+6. Have introduction for how the user shall use it in proper way.
