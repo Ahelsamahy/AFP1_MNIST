@@ -35,3 +35,4 @@ Application will have these general standards:
 
 As for us now, we are trying to get used to the backend side of the program as nearly the whole project will be based on calculation that is made on the server side which will be done by PHP language for its efficiency in dealing with lots of information with speed.
 
+This doesn't mean that there won't be a frontend side as we have to make a good looking frontend to the user stay longer on the website and to show the user all the info they have entered, this can be done by using Bootstrap to make the website responsive on different devices specially on the mobile phones as most of people use there phones nowadays more than before.
