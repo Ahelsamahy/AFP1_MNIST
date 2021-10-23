@@ -2,7 +2,7 @@
 As it was sent form the client, they want to create a MNIST image recognition application and we believe that this project can be done in proper way with the tools that we already have and can deliver top notch user interface so it can be good with all ranges of users as it would be.
 
 # 2. Current State  
-Currently we are a small team of developers that consists of 3 members with the help of 6 seniors, for now we work with small project to improve our self with meeting the requirements of each project and make sure to deliver a top-notch product for the market and raise our market value
+Currently we are a small team of developers that consists of 3 members with the help of 6 seniors, for now we work with small project to improve our self with meeting the requirements of each project and make sure to deliver a top-notch product for the market and raise our market value.
 
 As for now we are figuring out way to connect the project with database that have a wide range of images about numbers so we make the result more precise and narrow the field of error so we can achieve this by two ways. the first one is by having server that can handle heavy processing with all the images from different users being dealt with inside, which will eventually increase in the budget. The second option is to have a lot of users who are willing to spend more time on the platform so we take more data input from them, to do it you will need a good user interface that will keep them attached to it.
 
@@ -41,11 +41,17 @@ Application will have these general standards:
 Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read.
 
 # 6. Current business model
-As for us now, we are trying to get used to the backend side of the program as nearly the whole project will be based on calculation that is made on the server side which will be done by PHP language for its efficiency in dealing with lots of information with speed.
 
-This doesn't mean that there won't be a frontend side as we have to make a good looking frontend to the user stay longer on the website and to show the user all the info they have entered, this can be done by using Bootstrap to make the website responsive on different devices specially on the mobile phones as most of people use there phones nowadays more than before.
+The normal way to deal with the user's data is by getting all the input from the database then calculating how many of them choose specific answer for it in the ratio of the overall chosen answer, after it is done it will help in getting the recognition better for the project so it can deal better with blurry images.
+
+Why we can't use nowadays software is because most of them that can develop this kind of result we want, are either hard for normal user to work with it due to unfamiliar and unfriendly user interface or expensive to buy for our small team. so we hope that we find a middle part in between.
+
+In fact there is not a specific business model as the project is intended to serve as a way to improve machine learning, and there isn't a reason to have a subscription to do it and will serve a survey for user's opinion about numbers.
 
 # 7. Requested business model
+
+As our laboratory doesn't only function on this app, will we integrate it into our system so we will be able to get the result from and implement it to make our other software predict the result in the future for pre-experience results.
+
 As for right now for the team, we are still learning how to handle the back-end side of the website like calculating how many answers were for favor of one number and how many for the other one and based on it will show the next numbers, also the way for numbers to show randomly for each user as the user won't have the same sequence of numbers that are shown every time. So this project will have a new approach for us in way to integrate between back-end with front-end.
 
 Homepage that will show the numbers with the button around it wither on the side or as a dial pad or under it to leave space and how many numbers did the user will be next to the numbers.
