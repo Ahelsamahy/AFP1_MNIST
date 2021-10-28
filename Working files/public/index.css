@@ -24,6 +24,13 @@
   }
 }
 
+button{
+width: 100px;
+height: 50px;
+margin-right: 15px;
+color: #4835d4;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -65,30 +72,6 @@ h1.articlehead{
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-}
-#articletitle{
-  margin: auto;
-}
-.credits{
-  visibility:20%;
-  color: gray;
-}
-.hdTitle {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  text-align: center;
-}
-.bannersize{
-  width: 400px;
-  height: auto;
-}
-.h1edit{
-  margin-top: 10px;
-  text-align: center;
-}
-#genny{
-margin-left: auto;
-margin-right: auto;
 }
 
 

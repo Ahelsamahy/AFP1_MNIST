@@ -26,15 +26,22 @@
     <div class="px-4 py-5 my-5 text-center" id="Top">
       <img class="d-block mx-auto mb-4" src="./Used images/Full.jpg" alt="" width="360" height="285">
       <!-- <h1 class="display-5 fw-bold">Pied Piper</h1> -->
+      <div class="col-lg-6 mx-auto my-3">
+      <button type="button" class="btn btn-primary">Primary</button>
+      <button type="button" class="btn btn-primary">Primary</button>
+      <button type="button" class="btn btn-primary">Primary</button>
+      <button type="button" class="btn btn-primary">Primary</button>
+      <button type="button" class="btn btn-primary">Primary</button>
+
+      </div>
+      <br>
       <div class="col-lg-6 mx-auto">
-        <p class="lead mb-4">The only place where you can connect with your favorite artists from around the globe and
-          be updated with every new highlight of their life</p>
-        <!-- <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-          <button type="button" class="btn btn-primary btn-lg gap-3"><a href="#Features"> Learn
-              more</a></button>
-          <button type="button" class="btn btn-outline-secondary btn-lg px-4">Price</button>
-        </div> -->
-        <!-- will work on it later, but it is not used for now -->
+      <button type="button" class="btn btn-primary">Primary</button>
+      <button type="button" class="btn btn-primary">Primary</button>
+      <button type="button" class="btn btn-primary">Primary</button>
+      <button type="button" class="btn btn-primary">Primary</button>
+      <button type="button" class="btn btn-primary">Primary</button>
+
       </div>
     </div>
 
