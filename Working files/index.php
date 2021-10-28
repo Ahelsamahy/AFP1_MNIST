@@ -21,9 +21,9 @@
 </head>
 
 <body>
-    <?php require_once PROTECTED_DIR.'navbar.php'; ?>
+    <!-- <?php require_once PROTECTED_DIR.'navbar.php'; ?> -->
     <content><?php require_once PROTECTED_DIR.'routing.php'; ?></content>
-    <footer><?php include_once PROTECTED_DIR.'footer.php'; ?></footer>
+    <!-- <footer><?php include_once PROTECTED_DIR.'footer.php'; ?></footer> -->
     
 </body>
 </html>

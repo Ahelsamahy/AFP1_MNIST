@@ -12,27 +12,18 @@ switch($_GET['P']) {
         require_once NORMAL_DIR.'about_us.php';
         break;
 
-    case 'articles':
-        require_once NORMAL_DIR.'articles.php';
-        break;
 
-    case 'article':
-        require_once NORMAL_DIR.'article.php';
-        break;
-
-    case 'Sign_in':
-        require_once USER_DIR.'Sign_in.php';
-        break;
+    // case 'Sign_in':
+    //     require_once USER_DIR.'Sign_in.php';
+    //     break;
 
     // case 'logout':
 	// 	IsUserLoggedIn() ? UserLogout(): header('Location: index.php');
-	break;
-    case 'Sign_Up':
-        require_once NORMAL_DIR.'Sign_Up.php';
-        break;
-    case 'add_article':
-        require_once USER_DIR.'add_article.php';
-        break;
+	// break;
+    
+    // case 'Sign_Up':
+    //     require_once NORMAL_DIR.'Sign_Up.php';
+    //     break;
 
 
     default:
