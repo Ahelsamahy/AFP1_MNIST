@@ -5,6 +5,31 @@
 
 ## 1.2 Project Overview:
 
+The development team uses multiple technologies and software that are described in this document. Furthermore, the Business Requirements, the development phases and goals of this project will be documented here.
+
+The following resources and documents will be used during the development:
+
+- The Functional Requirements of the project
+
+- The features requested by the clients
+
+- The database structure and plan
+
+- The laws and industry standards that this project is subjected
+
+- Regulations
+
+- Terms and conditions
+
+- Cookies
+
+- Logging
+
+- Privacy policies like: advertising policies and third party privacy policies
+
+- CCPA and GDPR data protection rights
+
+
 
 # 2. Project plan
 ## 2.1 Roles and responsibilities
