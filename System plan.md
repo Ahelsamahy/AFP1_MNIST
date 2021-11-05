@@ -158,6 +158,21 @@ This website has three user level:
 
 ## 5.2 Use cases and scenarios
 
+### Guest:
+- Able to see the images list.
+- Able to see image statistics.
+
+### User:
+- Has all the guest privileges.
+- Able to choose input.
+- Able to see their score.
+- Able to skip to next image or number if they can't understand current one.
+
+### Admin:
+- Has all the user privileges.
+- See the user input.
+- Categorize each result based on the numbers.
+- Can remove numbers from the database.
 
 # 6. Physical environments
 
