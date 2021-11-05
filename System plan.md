@@ -16,6 +16,15 @@
 
 ## 2.2 Team members
 
+* Ahmed Mahfouz - Frontend developer, Team leader;
+* Oleg Dragoi - Database developer, Backend developer
+* Yslamguly Pirgulyyev - Junior developer
+* Csanádi Balázs Tóbiás - Senior Developer
+* Fügedi Csaba - Senior Developer
+* Meghwar Om Parkash - Senior Developer
+* Kungl Rebeka - Senior Developer
+* Ádám Ligárt - Senior Developer
+
 ## 2.3 Project schedule
 
 
