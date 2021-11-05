@@ -148,6 +148,14 @@ Supported browsers:
 
 ## 5.1 Participants
 
+This website has three user level:
+
+- Guest
+
+- User
+
+- Admin
+
 ## 5.2 Use cases and scenarios
 
 
