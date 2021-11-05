@@ -103,7 +103,33 @@ Recommended version: Latest Stable
 ## 4.1 Functional Requirements
 
 
-## 4.2 Non-funtional Requirements
+## 4.2 Non-functional Requirements
+
+The site must (be):
+
+- Easy to use
+
+- User-friendly
+
+- Able to navigate to the corresponding pages
+
+- Show error messages in different and consistent location and style
+
+- Have control panels, buttons (some of them are hidden from the general users)
+
+- Have permission system
+
+- Fit the EU Privacy Policy requirements
+
+Supported browsers:
+
+- Mozilla Firefox
+
+- Microsoft Edge
+
+- Google Chrome
+
+- Safari
 
 
 ## 4.3 Resources
