@@ -29,6 +29,15 @@ The following resources and documents will be used during the development:
 
 - CCPA and GDPR data protection rights
 
+Some additional information:
+
+- We are responsible for a website, that allows users to classify MNIST images.
+
+- Show image list.
+
+- Get some statistics for each image.
+
+- Provide a comfortable usage experience.
 
 
 # 2. Project plan
