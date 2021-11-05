@@ -94,6 +94,9 @@ Recommended version: Latest Stable
 
 # 3. Business model
 
+<p align="center">
+<img src="./Figures/MNIST_Bussines_Model.png">
+</p>
 
 # 4. Requirements
 
