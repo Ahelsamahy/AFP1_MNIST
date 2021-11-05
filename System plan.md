@@ -1,7 +1,8 @@
 # 1. Overview 
 
 ## 1.1 About this document
-
+Our team accepted a commission to create a MNIST image recognition application. We believe that this project can be done in proper way with the tools that we already have and can deliver top notch user interface so it can be good with all ranges of users as it would be.
+This document describes the project in detail, including the website's functionality, the team members, their roles and responsibilities, technologies we use in this project, development plans etc.
 
 ## 1.2 Project Overview:
 
