@@ -134,6 +134,15 @@ Supported browsers:
 
 ## 4.3 Resources
 
+- Fully functional database with tables and relations
+
+- Secured connection
+
+- Intuitive/easy to use interface
+
+- Creative front-end palette
+
+- Based on MySQL and PHP
 
 # 5. Functions
 
