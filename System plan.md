@@ -178,7 +178,13 @@ This website has three user level:
 This application was made for web platform and should be used with the supported web browsers.
 
 **Software and external systems we're working with:**
-
+- Sublime Text Editor (for PHP)
+- Gitkraken/Github for documentation
+- Trello
+- Visual Studio Code
+- Discord
+- Markdown Monster
+- app.diagrams.net
 
 **Hardware and Network:**
 
