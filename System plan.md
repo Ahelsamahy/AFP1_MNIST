@@ -101,7 +101,23 @@ Recommended version: Latest Stable
 # 4. Requirements
 
 ## 4.1 Functional Requirements
+Using common website elements and user management system:
 
+- Register: The users should have the opportunity to sign up. After registration they will have an own Profile Page.
+
+- Logging in and out: Editors should be able to log in and out.
+
+- Possibility to change password: Users' passwords should be changeable.
+
+- Profile details: Users should be able to see and modify the details on their Profile Page.
+
+Website functions:
+
+- Showing numbers: Users can easily classify the numbers if we show them straight forward.
+
+- Listing items, browsing: The user should be able to look up the images list and filter them on the website.
+
+- Image details: The customer should be able to see each image in a separate page.
 
 ## 4.2 Non-functional Requirements
 
