@@ -175,6 +175,7 @@ This website has three user level:
 - Can remove numbers from the database.
 
 # 6. Physical environments
+This application was made for web platform and should be used with the supported web browsers.
 
 **Software and external systems we're working with:**
 
