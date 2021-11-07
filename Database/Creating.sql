@@ -33,6 +33,13 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`id`, `username`, `password`, `user_lvl`) VALUES
 (1, 'admin', 'd033e22ae348aeb5660fc2140aec35850c4da997', 1);
 
+CREATE TABLE `mnist_images` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `location` varchar(25) NOT NULL,
+  `estimated_value` int,
+  `assinged_value` int DEFAULT NULL CHECK (`assinged_value` >= 0 AND `assinged_value` <= 9)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
