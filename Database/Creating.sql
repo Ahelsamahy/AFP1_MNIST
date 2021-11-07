@@ -17,8 +17,9 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
 
-CREATE OR REPLACE database afp1_mnist;
-use afp1_mnist;
+DROP DATABASE IF EXISTS afp1_mnist
+CREATE OR REPLACE DATABASE afp1_mnist;
+USE afp1_mnist;
 
 
 CREATE TABLE `users` (
@@ -28,7 +29,7 @@ CREATE TABLE `users` (
   `email` varchar(255) DEFAULT NULL CHECK (`email` LIKE '_%@_%._%'),
   `user_lvl` int NOT NULL DEFAULT 0 CHECK (`user_lvl` < 2),
   `created_at` timestamp NOT NULL DEFAULT current_timestamp()
-) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+) ENGINE=INNODB DEFAULT CHARSET=latin1;
 
 INSERT INTO `users` (`id`, `username`, `password`, `user_lvl`) VALUES
 (1, 'admin', 'd033e22ae348aeb5660fc2140aec35850c4da997', 1);
@@ -38,7 +39,17 @@ CREATE TABLE `mnist_images` (
   `location` varchar(25) NOT NULL,
   `estimated_value` int,
   `assinged_value` int DEFAULT NULL CHECK (`assinged_value` >= 0 AND `assinged_value` <= 9)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+) ENGINE=INNODB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `submissions` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `image_id` int(11) NOT NULL,
+  FOREIGN KEY (`image_id`) REFERENCES mnist_images(id),
+  `user_id` int(11),
+  FOREIGN KEY (`user_id`) REFERENCES users(id),
+  `value` int CHECK (`value` >= 0 AND `value` <= 9),
+  `submmited_at` timestamp NOT NULL DEFAULT current_timestamp()
+) ENGINE=INNODB DEFAULT CHARSET=latin1;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
