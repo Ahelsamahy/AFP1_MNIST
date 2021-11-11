@@ -15,26 +15,6 @@
   <link href="About us.css" rel="stylesheet">
 
 <body>
-  <!-- <div class="container">
-
-    <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
-      <a class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark
-      text-decoration-none">
-        <svg class="bi me-2" width="40" height="32">
-          <use xlink:href="#bootstrap" />
-        </svg>
-        <span class="fs-4">Pied Piper</span>
-      </a>
-      <ul class="nav nav-pills">
-        <li class="nav-item"><a href="./index.html" class="nav-link">Home</a></li>
-        <li class="nav-item"><a href="./index.html#Features" class="nav-link">Features</a></li>
-        <li class="nav-item"><a href="./index.html#Pricing" class="nav-link">Pricing</a></li>
-        <li class="nav-item"><a href="./index.html#Sign up" class="nav-link">Sign up</a></li>
-        <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">About us</a>
-        </li>
-      </ul>
-    </header>
-  </div> -->
   <main>
 
     <div class="container" id="Top">
@@ -44,11 +24,10 @@
       </center>
       <div class="col-lg-9 mx-auto mb-5">
         <p class="lead mb-4 text-center">Goal of the project is to deliver new idea in the
-          websites that can connect between fans and their favorite artists to keep up with
-          new interviews and exclusive behind the scenes with their latest videos.
+          websites that can get data from the user and improve the way we know today about this project1.
         </p>
         <p class="lead mb-4 text-center">
-          that's why we came with the idea of <span class="fs-4">Pide Piper</span> which is one of a kind website
+          That's why we came with the idea of <span class="fs-4">MNIST</span> which is one of a kind website
           that will fullfil your fan stamina to the artist you desire, as we believe that
           it will be only good if people like you worked on it to deliver the best
           experience that you would truly enjoy it and put us in the seat of you so we
