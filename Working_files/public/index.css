@@ -31,26 +31,17 @@ margin-right: 15px;
 color: #4835d4;
 }
 
-#Top{
-  /* background-color: #4835d4; */
+/* #Top{
+
   padding-top: 200px;
   margin-bottom: 200px;
   color: #00008B;
-}
+} */
 
 #numButtons{
-  font-size: 25px;
+  font-size: 30px;
 }
 
-
-
-html,
-body {
-  scroll-behavior: smooth;
-     margin:0;
-   padding:0;
-   height:100%;
-}
 
 h6{
   margin-top: -20px;
@@ -117,3 +108,7 @@ body {
   width:100%;
   height:00px;   /* Height of the footer */
 }
+/* #one_image{
+  background-color:aqua;
+} */
+
