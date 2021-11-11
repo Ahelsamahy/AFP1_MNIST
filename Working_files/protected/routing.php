@@ -12,6 +12,10 @@ switch($_GET['P']) {
         require_once NORMAL_DIR.'about_us.php';
         break;
 
+    case 'My_info':
+        require_once NORMAL_DIR.'My_info.php';
+        break;
+
 
     // case 'Sign_in':
     //     require_once USER_DIR.'Sign_in.php';
@@ -26,7 +30,7 @@ switch($_GET['P']) {
     //     break;
 
 
-    default:
-        require_once NORMAL_DIR.'home.php';
-        break;
+    // default:
+    //     require_once NORMAL_DIR.'home.php';
+    //     break;
 }
