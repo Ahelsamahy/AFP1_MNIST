@@ -21,7 +21,10 @@
 </head>
 
 <body>
+<?php require_once PROTECTED_DIR.'navbar.php'; ?>
+
 <main>
+
 <div class="container">
   
 
