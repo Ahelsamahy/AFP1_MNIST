@@ -10,7 +10,7 @@
     <ul class="nav nav-pills">
       <!-- aria-current="page" -->
       <li class="nav-item"><a href="?P=home#" class="nav-link">Home</a></li>
-      <li class="nav-item"><a href="?P=home#Features" class="nav-link">My info</a></li>
+      <li class="nav-item"><a href="?P=My_info" class="nav-link">My info</a></li>
       <li class="nav-item"><a href="?P=home#Pricing" class="nav-link">Features</a></li>
 	<?php if(!IsUserLoggedIn()) :?>
 		<li class="nav-item"><a href="?P=Sign_in" class="nav-link">Sign in</a></li>
