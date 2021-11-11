@@ -11,6 +11,10 @@ switch($_GET['P']) {
     case 'about_us':
         require_once NORMAL_DIR.'about_us.php';
         break;
+    
+        case 'features':
+            require_once NORMAL_DIR.'Features.php';
+            break;
 
     case 'My_info':
         require_once NORMAL_DIR.'My_info.php';
