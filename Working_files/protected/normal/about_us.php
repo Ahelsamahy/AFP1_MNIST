@@ -211,24 +211,6 @@
       <p class=" lead mb-4 text-center">
         we would appreciate your feedback if you have any problem on Lorem_ipsum@gmail.com
       </p>
-
-      <!-- ---------------------------------------------------------------------------- -->
-      <!-- <footer class="py-3 my-4">
-        <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-
-          <li class="nav-item"><a href="#Top" class="nav-link px-2
-          text-muted">Home</a></li>
-          <li class="nav-item"><a href="./index.html#Features" class="nav-link px-2
-          text-muted">Features</a></li>
-          <li class="nav-item"><a href="./index.html#Pricing" class="nav-link px-2
-          text-muted">Pricing</a></li>
-          <li class="nav-item"><a href="./index.html#Sign up" class="nav-link px-2 text-muted">Sign
-              Up</a></li>
-          <li class="nav-item"><a href="#Top" class="nav-link px-2
-          text-muted">About us</a></li>
-        </ul>
-        <p class="text-center text-muted">&copy; 2021 Pied Piper, Inc</p>
-      </footer> -->
     </div>
   </main>
 
