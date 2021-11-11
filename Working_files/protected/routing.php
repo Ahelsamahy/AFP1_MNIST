@@ -16,20 +16,6 @@ switch($_GET['P']) {
         require_once NORMAL_DIR.'My_info.php';
         break;
 
-
-    // case 'Sign_in':
-    //     require_once USER_DIR.'Sign_in.php';
-    //     break;
-
-    // case 'logout':
-	// 	IsUserLoggedIn() ? UserLogout(): header('Location: index.php');
-	// break;
-    
-    // case 'Sign_Up':
-    //     require_once NORMAL_DIR.'Sign_Up.php';
-    //     break;
-
-
     // default:
     //     require_once NORMAL_DIR.'home.php';
     //     break;
