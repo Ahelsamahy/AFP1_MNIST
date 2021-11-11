@@ -3,7 +3,7 @@
 <div class="container">
   
 
-    <div class="px-4 py-5 text-center" id="Top">
+    <div class="px-4 pb-5 text-center" id="Top">
     <div class="col-lg-6 mx-auto">
     
     <p class="lead">click on any number to choose it then click on enter to submit your answer</p>
@@ -31,7 +31,7 @@
         </div>
       </div>
     <div class="col">
-    <img class="d-block mx-auto mb-4" src="./Used images/Full.jpg" alt="" width="400" height="500">
+    <img class="d-block mx-auto" src="./Used images/Full.jpg" alt="" width="400" height="500">
     </div>
     <div class="col-sm">
       <!-- will have input text here -->
