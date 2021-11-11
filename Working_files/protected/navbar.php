@@ -4,14 +4,14 @@
       <svg class="bi me-2" width="40" height="32">
         <use xlink:href="#bootstrap" />
       </svg>
-      <span class="fs-4">Pied Piper</span>
+      <span class="fs-4">MNIST</span>
 
     </a>
     <ul class="nav nav-pills">
       <!-- aria-current="page" -->
       <li class="nav-item"><a href="?P=home#" class="nav-link">Home</a></li>
       <li class="nav-item"><a href="?P=My_info" class="nav-link">My info</a></li>
-      <li class="nav-item"><a href="?P=home#Pricing" class="nav-link">Features</a></li>
+      <li class="nav-item"><a href="?P=features" class="nav-link">Features</a></li>
 	<?php if(!IsUserLoggedIn()) :?>
 		<li class="nav-item"><a href="?P=Sign_in" class="nav-link">Sign in</a></li>
 	<?php endif; ?>
