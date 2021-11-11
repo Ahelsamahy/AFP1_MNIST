@@ -21,8 +21,10 @@
 </head>
 
 <body>
+<div id="container">
 <?php require_once PROTECTED_DIR.'navbar.php'; ?>
 <content><?php require_once PROTECTED_DIR.'routing.php'; ?></content>
-<footer><?php include_once PROTECTED_DIR.'footer.php'; ?></footer>
+<footer id="footer"><?php include_once PROTECTED_DIR.'footer.php'; ?></footer>
+</div>
 </body>
 </html>
