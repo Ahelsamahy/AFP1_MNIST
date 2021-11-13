@@ -24,7 +24,7 @@
       </center>
       <div class="col-lg-9 mx-auto mb-5">
         <p class="lead mb-4 text-center">Goal of the project is to deliver new idea in the
-          websites that can get data from the user and improve the way we know today about this project1.
+          websites that can get data from the user and improve the way we know today about this project.
         </p>
         <p class="lead mb-4 text-center">
           That's why we came with the idea of <span class="fs-4">MNIST</span> which is one of a kind website
@@ -187,9 +187,9 @@
             </table>
           </td>
       </table>
-      <p class=" lead mb-4 text-center">
+      <!-- <p class=" lead mb-4 text-center">
         we would appreciate your feedback if you have any problem on Lorem_ipsum@gmail.com
-      </p>
+      </p> -->
     </div>
   </main>
 
