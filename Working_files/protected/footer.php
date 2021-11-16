@@ -4,11 +4,10 @@
             <li class="nav-item"><a href="?P=home#" class="nav-link px-2 text-muted">Home</a></li>
             <li class="nav-item"><a href="?P=My_info" class="nav-link px-2 text-muted">My info</a></li>
             <li class="nav-item"><a href="?P=features" class="nav-link px-2 text-muted">Features</a></li>
-            <?php if(!IsUserLoggedIn()) :?>
-		<li class="nav-item"><a href="?P=Sign_in" class="nav-link px-2 text-muted">Sign in</a></li>
-        <li class="nav-item"><a href="?P=#" class="nav-link px-2 text-muted">all submissions</a></li>
+            <?php if (!IsUserLoggedIn()) : ?>             
+                <li class="nav-item"><a href="?P=#" class="nav-link px-2 text-muted">all submissions</a></li>
 
-	    <?php endif; ?>
+            <?php endif; ?>
             <li class="nav-item"><a href="?P=about_us" class="nav-link px-2 text-muted">About us</a></li>
         </ul>
         <p class="text-center text-muted">&copy; 2021 3Pro, Inc</p>

@@ -12,12 +12,8 @@
       <li class="nav-item"><a href="?P=home#" class="nav-link">Home</a></li>
       <li class="nav-item"><a href="?P=My_info" class="nav-link">My info</a></li>
       <li class="nav-item"><a href="?P=features" class="nav-link">Features</a></li>
-	<?php if(!IsUserLoggedIn()) :?>
-		<li class="nav-item"><a href="?P=Sign_in" class="nav-link">Sign in</a></li>
-	<?php endif; ?>
 	<?php if(IsUserLoggedIn()) :?>	
 		<li class="nav-item"><a href="?P=add_article" class="nav-link">All submissions</a></li>	
-		<li class="nav-item"><a href="index.php?P=logout" class="nav-link">Logout</a>
 	<?php endif;?>
       <li class="nav-item"><a href="?P=about_us" class="nav-link">About us</a></li>
     </ul>
