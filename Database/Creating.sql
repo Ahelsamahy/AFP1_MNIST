@@ -36,9 +36,9 @@ INSERT INTO `users` (`id`, `username`, `password`, `user_lvl`) VALUES
 
 CREATE TABLE `mnist_images` (
   `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  `location` varchar(25) NOT NULL,
+  `location` varchar(255) NOT NULL,
+  UNIQUE(`location`),
   `estimated_value` int,
-  `assinged_value` int DEFAULT NULL CHECK (`assinged_value` >= 0 AND `assinged_value` <= 9)
 ) ENGINE=INNODB DEFAULT CHARSET=latin1;
 
 CREATE TABLE `submissions` (
