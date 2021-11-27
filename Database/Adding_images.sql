@@ -1,5 +1,5 @@
 DELIMITER $$
-CREATE PROCEDURE AddTraining()
+CREATE OR REPLACE PROCEDURE AddTraining()
 BEGIN
 	DECLARE x int;
 	DECLARE l VARCHAR(255);
@@ -16,8 +16,10 @@ END$$
 DELIMITER ;
 
 CALL AddTraining();
+DROP PROCEDURE AddTraining;
 
 DELIMITER $$
+CREATE OR REPLACE PROCEDURE AddTesting()
 BEGIN
 	DECLARE x int;
 	DECLARE l VARCHAR(255);
@@ -31,8 +33,7 @@ BEGIN
 		SET x = x + 1;
 	END LOOP;
 END$$
-DELIMITER;
+DELIMITER ;
 
 CALL AddTesting();
-
--- TIP: Delete the procedures after execution
+DROP PROCEDURE AddTesting;

@@ -17,8 +17,8 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
 
-DROP DATABASE IF EXISTS afp1_mnist
-CREATE OR REPLACE DATABASE afp1_mnist;
+DROP DATABASE IF EXISTS afp1_mnist;
+CREATE DATABASE afp1_mnist;
 USE afp1_mnist;
 
 
@@ -36,9 +36,9 @@ INSERT INTO `users` (`id`, `username`, `password`, `user_lvl`) VALUES
 
 CREATE TABLE `mnist_images` (
   `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  `location` varchar(255) NOT NULL,
+  `location` text NOT NULL,
   UNIQUE(`location`),
-  `estimated_value` int,
+  `estimated_value` int
 ) ENGINE=INNODB DEFAULT CHARSET=latin1;
 
 CREATE TABLE `submissions` (
