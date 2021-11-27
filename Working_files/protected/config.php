@@ -7,13 +7,13 @@ define('USER_DIR', PROTECTED_DIR.'user/');
 
 
 define('DATABASE_CONTROLLER', PROTECTED_DIR.'database.php');
-define('ARTICLE_MANAGER', PROTECTED_DIR.'articleManager.php');
+define('IMAGE_MANAGER', PROTECTED_DIR.'imageManager.php');
 
 define('USER_MANAGER', PROTECTED_DIR.'userManager.php');
 
 define('DB_TYPE', 'mysql');
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'MNIST'); 
+define('DB_NAME', 'afp1_mnist'); 
 define('DB_USER', 'root');
 define('DB_PASS', '');
 define('DB_CHARSET', 'utf8');
