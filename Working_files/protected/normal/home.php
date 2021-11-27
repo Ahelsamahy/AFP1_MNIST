@@ -1,3 +1,7 @@
+<?php 
+	require_once IMAGE_MANAGER;
+    $image = getRandomImage();
+?>
 <main>
 
 <div class="container">
@@ -31,7 +35,7 @@
         </div>
       </div>
     <div class="col">
-    <img class="d-block mx-auto" src="./Used images/Full.jpg" alt="" width="400" height="500">
+    <img class="d-block mx-auto" src="<?=$image['location']?>" alt="" width="400" height="500">
     </div>
     <div class="col-sm">
       <!-- will have input text here -->
