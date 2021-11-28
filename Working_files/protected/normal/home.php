@@ -35,7 +35,7 @@
         </div>
       </div>
     <div class="col">
-    <img class="d-block mx-auto" src="<?=$image['location']?>" alt="" width="400" height="500">
+    <img class="d-block mx-auto" src="<?=($image <> false) ? $image['location'] : './Used images/Error/Image_Not_Found.png' ?>" alt="" width="400" height="500">
     </div>
     <div class="col-sm">
       <!-- will have input text here -->
