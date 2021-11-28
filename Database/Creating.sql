@@ -23,7 +23,7 @@ USE afp1_mnist;
 
 
 CREATE TABLE `users` (
-  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `id` int NOT NULL AUTO_INCREMENT PRIMARY KEY,
   `username` varchar(25) NOT NULL,
   `password` varchar(255) NOT NULL,
   `email` varchar(255) DEFAULT NULL CHECK (`email` LIKE '_%@_%._%'),
@@ -35,20 +35,20 @@ INSERT INTO `users` (`id`, `username`, `password`, `user_lvl`) VALUES
 (1, 'admin', 'd033e22ae348aeb5660fc2140aec35850c4da997', 1);
 
 CREATE TABLE `mnist_images` (
-  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `id` int NOT NULL AUTO_INCREMENT PRIMARY KEY,
   `location` text NOT NULL,
   UNIQUE(`location`),
   `estimated_value` int
 ) ENGINE=INNODB DEFAULT CHARSET=latin1;
 
 CREATE TABLE `submissions` (
-  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  `image_id` int(11) NOT NULL,
+  `id` int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `image_id` int NOT NULL,
   FOREIGN KEY (`image_id`) REFERENCES mnist_images(id),
-  `user_id` int(11),
+  `user_id` int,
   FOREIGN KEY (`user_id`) REFERENCES users(id),
   `value` int CHECK (`value` >= 0 AND `value` <= 9),
-  `submmited_at` timestamp NOT NULL DEFAULT current_timestamp()
+  `submitted_at` timestamp NOT NULL DEFAULT current_timestamp()
 ) ENGINE=INNODB DEFAULT CHARSET=latin1;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
