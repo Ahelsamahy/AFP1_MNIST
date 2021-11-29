@@ -8,6 +8,7 @@ define('USER_DIR', PROTECTED_DIR.'user/');
 
 define('DATABASE_CONTROLLER', PROTECTED_DIR.'database.php');
 define('IMAGE_MANAGER', PROTECTED_DIR.'imageManager.php');
+define('SUBMISSION_MANAGER', PROTECTED_DIR.'submissionManager.php');
 
 define('USER_MANAGER', PROTECTED_DIR.'userManager.php');
 
