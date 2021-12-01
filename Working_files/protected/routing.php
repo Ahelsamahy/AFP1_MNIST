@@ -16,9 +16,6 @@ switch($_GET['P']) {
             require_once NORMAL_DIR.'Features.php';
             break;
 
-    case 'My_info':
-        require_once NORMAL_DIR.'My_info.php';
-        break;
 
     // default:
     //     require_once NORMAL_DIR.'home.php';
