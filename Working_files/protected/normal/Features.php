@@ -11,7 +11,7 @@
       </p>
       <p class="lead mb-4 text-center">
         That's why we came with the idea of <span class="fs-4">MNIST</span> which is one of a kind website
-        that will make the users help in making the data anaylsts improve their algorithems so it make a
+        that will make the users help in making the data analysts improve their algorithms so it make a
         better future for all of us. We believe that through our software we can make the world a better place
         for future generations and we tend to carry this more.
       </p>
