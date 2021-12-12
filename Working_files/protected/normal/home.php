@@ -34,6 +34,9 @@ $image = getRandomImage();
 
           </div>
         </div>
+        <div>
+        <button class="button">submit</button>
+           </div>
         <div class="col">
           <img class="d-block mx-auto" src="<?= ($image <> false) ? $image['location'] : './Used images/Error/Image_Not_Found.png' ?>" alt="" width="350" height="350" id="image-show">
         </div>
