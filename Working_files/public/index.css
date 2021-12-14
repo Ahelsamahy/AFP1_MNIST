@@ -113,6 +113,12 @@ body {
   background-color: blue;
 }
 
+#img_value{
+  font-size: 40px;
+width: 150px;
+/* background-color: blue; */
+}
+
 /* #one_image{
   background-color:aqua;
 } */
