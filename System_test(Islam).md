@@ -1,7 +1,6 @@
 <h1 align= "center">️ Project test️</h1>
 <hr>
 <h2 align= "center"> Tester: Yslamguly Pirgulyyev </h2>
-<<<<<<< HEAD
 <h3 align= "center"> Testing Date: 12.14.2021 </h3>
 <h4 align= "center"> Browser: Microsoft Edge  </h4>
 <hr>
@@ -81,7 +80,6 @@
 	</tr>
 </tbody>
 </table>
-=======
-
->>>>>>> parent of 4999cf7... Specify the browser and the date
-
+<hr>
+<h2 align="center">Summary</h2>
+<h4 align="left">This project is done in a proper way with the tools that can deliver top notch user interface.It does not exhibit any errors or clash unexpectedly.There is not any user interface glitches.</h4>
