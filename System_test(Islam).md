@@ -82,4 +82,4 @@
 </table>
 <hr>
 <h2 align="center">Summary</h2>
-<h4 align="left">This project is done in a proper way with the tools that can deliver top notch user interface.It does not exhibit any errors or clash unexpectedly.There is not any user interface glitches.</h4>
+<h4 align="left">This project is done in a proper way with the tools that can deliver top notch user interface. It does not exhibit any errors or clash unexpectedly. There is not any user interface glitches.</h4>
