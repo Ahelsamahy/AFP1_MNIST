@@ -1,6 +1,14 @@
 <?php
-require_once IMAGE_MANAGER;
-$image = getRandomImage();
+  if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['image_id'])  && isset($_POST['value'])) {
+    require_once SUBMISSION_MANAGER;
+
+    addSubmission($_POST['image_id'], $_POST['value']);
+  }
+
+
+  require_once IMAGE_MANAGER;
+  $image = getRandomImage();
+
 ?>
 <main>
 
@@ -17,7 +25,7 @@ $image = getRandomImage();
       <div class="row">
         <div id="numButtons" class="col">
           <div class="col-lg-auto mx-auto">
-            <button id="numButtons" type="button" class="btn">0</button>
+            <button id="numButtons" type="button" class="btn" onclick="setValues(<?=$image['id'] ?>, '0')">0</button>
             <button id="numButtons" type="button" class="btn">1</button>
             <button id="numButtons" type="button" class="btn">2</button>
             <button id="numButtons" type="button" class="btn">3</button>
@@ -35,8 +43,12 @@ $image = getRandomImage();
           </div>
         </div>
         <div>
-        <button class="button">submit</button>
-           </div>
+          <form method="POST">
+          <input type="hidden" id="image_id" name="image_id" value="">
+          <button type="submit" id="img_value" name="value" value="" class="button">submit</button>
+          </form>
+         
+        </div>
         <div class="col">
           <img class="d-block mx-auto" src="<?= ($image <> false) ? $image['location'] : './Used images/Error/Image_Not_Found.png' ?>" alt="" width="350" height="350" id="image-show">
         </div>
